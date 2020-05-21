@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/estilos.css">
+    <meta name="country" content="Spain">
+    <meta name="Language" content="es">
+    <meta name="author" content="Pardu">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Alquiler de coches</title>
+</head>
+<body>
+    <main>
+        <header>
+            <p>¿A que destino le apetece viajar hoy?</p>
+        </header>
+        <nav class='barra'>
+            <a href="../index.html" target="_blank">Inicio</a>
+            <a href="./xml/xml_viajes.html" target="_blank">Destinos</a>
+            <a href="./videos.html" target="_blank">Videos</a>
+            <a href="https://www.amazon.es/articulos-playa/s?k=articulos+de+playa" target="_blank">Articulos playa</a>
+            <a href="AQUI VA EL LINK DEL RENTING DE VEHICULOS" target="_blank">Renting de autos</a>
+            <a href="./xml/xml_viajes.xml" target="_blank">Destinos</a>
+        </nav>
+        <br>
+
+        <h1 class="h1form">Rellena nuestro formulario y obten noticias nuevas cada dia</h1>
+        <br>
+
+        <div class="divg">
+            <form action="POST">
+                <div>
+                    <label>Nombre:</label><br>
+                    <label>Apellidos:</label><br>
+                    <label>Correo Electrónico:</label><br>
+                    <label>DNI:</label><br>
+                    <label>Copia del DNI:</label><br>
+                    <label>Que tipo de viajero es usted</label><br>
+                    <label>Sexo</label><br>
+                </div>
+                <div>
+                    <input type="text" name="nombre"><br>
+                    <input type="text" name="apellido"><br>
+                    <input type="text" name="correo" placeholder="ejemplo&#64;gmail.com"><br>
+                    <input type="text" name="dni" placeholder="09134524E"><br>
+                    <input type="file" name="carnet" accept="image/png, image/jpeg" class="dnicopia"><br>
+                    <input list="coches" name="coches">
+                    <datalist id="coches">
+                    <option value="Aventurer&#64;">
+                    <option value="Explorador&#47;a">
+                    <option value="Intrepid&#64;">
+                    <option value="Amante de la comodidad">
+                    <option value="Planificador">
+                    </datalist><br>
+                    <div class="tapu">
+                        <label>Hombre</label>
+                        <input type="radio" name="sexo">
+                        <label>Mujer</label>
+                        <input type="radio" name="sexo">
+                    </div>
+                    <input type="submit" value="Enviar">
+                    <input type="reset" value="Borrar">
+                </div>
+            </form>
+        </div>
+
+        <br>
+        <br>
+
+        <div class="final">
+        <p><a href="mailto:someone@example.com">¿Te gustaría aportar nuevas curiosidades y nuevos destinos?.¡Escríbenos!</a></p>
+        <p>Escribenos un correo y dejanos tu opinion, estaremos encantado de añadirla a nuestras <b class="redes">redes sociales</b></p>
+        <p>¿Que no nos sigues en nuestras redes sociales?</p>
+        <p>¿A que esperas?</p>
+        </div>
+        <a href="https://www.facebook.com/" class="fa fa-facebook"></a>
+        <a href="https://twitter.com/explore" class="fa fa-twitter"></a>
+        <a href="#" class="fa fa-instagram"></a>
+        <footer>
+            <h1>Pardu S.l</h1>
+        </footer>
+    </main>
+</body>
+</html>

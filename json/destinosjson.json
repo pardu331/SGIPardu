@@ -1,0 +1,46 @@
+{
+	"Lugares": {
+		"Destino": [
+			{
+				"@n": 1,
+				"Pais": "Francia",
+				"Sitio_a_visitar": "La Torre Eiffel",
+				"Bandera_pais": "../imagenes/francesvg.svg",
+				"Idioma": "Frances",
+				"Precio": "250€"
+			},
+			{
+				"@n": 2,
+				"Pais": "España",
+				"Sitio_a_visitar": "La sagrada familia",
+				"Bandera_pais": "../imagenes/espanasvg.svg",
+				"Idioma": "Español",
+				"Precio": "300€"
+			},
+			{
+				"@n": 3,
+				"Pais": "Italia",
+				"Sitio_a_visitar": "La torre de pisa",
+				"Bandera_pais": "../imagenes/itasvg.svg",
+				"Idioma": "Italiano",
+				"Precio": "100€"
+			},
+			{
+				"@n": 4,
+				"Pais": "Alemania",
+				"Sitio_a_visitar": "Muro de Berlin",
+				"Bandera_pais": "../imagenes/alesvg.svg",
+				"Idioma": "Aleman",
+				"Precio": "500€"
+			},
+			{
+				"@n": 5,
+				"Pais": "Inglaterra",
+				"Sitio_a_visitar": "Big Ben",
+				"Bandera_pais": "../imagenes/engsvg.svg",
+				"Idioma": "Ingles",
+				"Precio": "1000€"
+			}
+		]
+	}
+}

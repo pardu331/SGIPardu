@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Lugares SYSTEM "..\dtd\dtdpardu.dtd">
+<?xml-stylesheet type="text/xsl" href="file:../xsl/xsl_viajes.xsl"?>
+<Lugares>
+	<Destino n="1">
+		<Pais>Francia</Pais>
+		<Sitio_a_visitar>La Torre Eiffel</Sitio_a_visitar>
+		<Bandera_pais>../imagenes/francesvg.svg</Bandera_pais>
+		<Idioma>Frances</Idioma>
+		<Precio>250€</Precio>
+	</Destino>
+	<Destino n="2">
+		<Pais>España</Pais>
+		<Sitio_a_visitar>La sagrada familia</Sitio_a_visitar>
+		<Bandera_pais>../imagenes/espanasvg.svg</Bandera_pais>
+		<Idioma>Español</Idioma>
+		<Precio>300€</Precio>
+	</Destino>
+	<Destino n="3">
+		<Pais>Italia</Pais>
+		<Sitio_a_visitar>La torre de pisa</Sitio_a_visitar>
+		<Bandera_pais>../imagenes/itasvg.svg</Bandera_pais>
+		<Idioma>Italiano</Idioma>
+		<Precio>100€</Precio>
+	</Destino>
+	<Destino n="4">
+		<Pais>Alemania</Pais>
+		<Sitio_a_visitar>Muro de Berlin</Sitio_a_visitar>
+		<Bandera_pais>../imagenes/alesvg.svg</Bandera_pais>
+		<Idioma>Aleman</Idioma>
+		<Precio>500€</Precio>
+	</Destino>
+	<Destino n="5">
+		<Pais>Inglaterra</Pais>
+		<Sitio_a_visitar>Big Ben</Sitio_a_visitar>
+		<Bandera_pais>../imagenes/engsvg.svg</Bandera_pais>
+		<Idioma>Ingles</Idioma>
+		<Precio>1000€</Precio>
+	</Destino>
+</Lugares>

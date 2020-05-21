@@ -1,0 +1,52 @@
+{
+	"autos": {
+		"motocicletas": {
+			"motocicleta": [
+				{
+					"@n": 1,
+					"potencia": "120cv",
+					"color": "rojo",
+					"fecha_matriculacion": "12/10/05",
+					"marca": "toyota",
+					"numero_pasajeros": "2",
+					"precio": "1000$",
+					"foto": "../imagenes/toyotasvg.svg"
+				},
+				{
+					"@n": 2,
+					"potencia": "90cv",
+					"color": "naranja",
+					"fecha_matriculacion": "05/07/01",
+					"marca": "bmw",
+					"numero_pasajeros": "2",
+					"precio": "500$",
+					"foto": "../imagenes/bmwsvg.svg"
+				}
+			]
+		},
+		"automoviles": {
+			"automovil": [
+				{
+					"@n": 3,
+					"potencia": "300cv",
+					"color": "blanco",
+					"fecha_matriculacion": "05/07/01",
+					"marca": "porsche",
+					"numero_pasajeros": "5",
+					"precio": "2500$",
+					"foto": "../imagenes/porschesvg.svg"
+				},
+				{
+					"@n": 4,
+					"potencia": "500cv",
+					"color": "amarillo",
+					"fecha_matriculacion": "13/08/08",
+					"marca": "ferrari",
+					"numero_pasajeros": "2",
+					"precio": "6000$",
+					"foto": "../imagenes/ferrarisvg.svg"
+				}
+			]
+		}
+	}
+}

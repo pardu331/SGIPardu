@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE autos SYSTEM "..\dtd\dtdvehiculos.dtd">
+<?xml-stylesheet type="text/xsl" href="file:../xsl/xsl_vehiculos.xsl"?>
+<autos>
+	<motocicletas>
+		<motocicleta n="1">
+			<potencia>120cv</potencia>
+			<color>rojo</color>
+			<fecha_matriculacion>12/10/05</fecha_matriculacion>
+			<marca>toyota</marca>
+			<numero_pasajeros>2</numero_pasajeros>
+			<precio>1000$</precio>
+			<foto>../imagenes/toyotasvg.svg</foto>
+		</motocicleta>
+		<motocicleta n="2">
+			<potencia>90cv</potencia>
+			<color>naranja</color>
+			<fecha_matriculacion>05/07/01</fecha_matriculacion>
+			<marca>bmw</marca>
+			<numero_pasajeros>2</numero_pasajeros>
+			<precio>500$</precio>
+			<foto>../imagenes/bmwsvg.svg</foto>
+		</motocicleta>
+	</motocicletas>
+	<automoviles>
+		<automovil n="3">
+			<potencia>300cv</potencia>
+			<color>blanco</color>
+			<fecha_matriculacion>05/07/01</fecha_matriculacion>
+			<marca>porsche</marca>
+			<numero_pasajeros>5</numero_pasajeros>
+			<precio>2500$</precio>
+			<foto>../imagenes/porschesvg.svg</foto>
+		</automovil>
+		<automovil n="4">
+			<potencia>500cv</potencia>
+			<color>amarillo</color>
+			<fecha_matriculacion>13/08/08</fecha_matriculacion>
+			<marca>ferrari</marca>
+			<numero_pasajeros>2</numero_pasajeros>
+			<precio>6000$</precio>
+			<foto>../imagenes/ferrarisvg.svg</foto>
+		</automovil>
+	</automoviles>
+</autos>
