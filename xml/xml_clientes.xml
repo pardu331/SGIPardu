@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE clientes SYSTEM "..\dtd\dtdclientes.dtd">
+<?xml-stylesheet type="text/xsl" href="..\xsl\xsl_clientes.xsl"?>
+<clientes>
+	<cliente n="1">
+		<nombre>Ivan</nombre>
+		<apellido>Pardueles</apellido>
+		<Edad>18</Edad>
+		<top>1</top>
+		<numero_viajes>12</numero_viajes>
+		<dinero_gastado>1500$</dinero_gastado>
+		<viaje_favorito>../imagenes/alemaniasvg.svg</viaje_favorito>
+	</cliente>
+	<cliente n="2">
+		<nombre>Kamal</nombre>
+		<apellido>Fernandez</apellido>
+		<Edad>18</Edad>
+		<top>2</top>
+		<numero_viajes>11</numero_viajes>
+		<dinero_gastado>1200$</dinero_gastado>
+		<viaje_favorito>../imagenes/chinasvg.svg</viaje_favorito>
+	</cliente>
+	<cliente n="3">
+		<nombre>Javier</nombre>
+		<apellido>Pino</apellido>
+		<Edad>45</Edad>
+		<top>3</top>
+		<numero_viajes>9</numero_viajes>
+		<dinero_gastado>1100$</dinero_gastado>
+		<viaje_favorito>../imagenes/eiffelsvg.svg</viaje_favorito>
+	</cliente>
+	<cliente n="4">
+		<nombre>Luis</nombre>
+		<apellido>Martinez</apellido>
+		<Edad>80</Edad>
+		<top>4</top>
+		<numero_viajes>1</numero_viajes>
+		<dinero_gastado>1000$</dinero_gastado>
+		<viaje_favorito>../imagenes/inglaterrasvg.svg</viaje_favorito>
+	</cliente>
+	<cliente n="5">
+		<nombre>Pepe</nombre>
+		<apellido>Lopez</apellido>
+		<Edad>95</Edad>
+		<top>5</top>
+		<numero_viajes>2</numero_viajes>
+		<dinero_gastado>920$</dinero_gastado>
+		<viaje_favorito>../imagenes/sevillaclientesvg.svg</viaje_favorito>
+	</cliente>
+	<cliente n="6">
+		<nombre>Jose</nombre>
+		<apellido>Ramos</apellido>
+		<Edad>18</Edad>
+		<top>6</top>
+		<numero_viajes>9</numero_viajes>
+		<dinero_gastado>500$</dinero_gastado>
+		<viaje_favorito>../imagenes/italiasvg.svg</viaje_favorito>
+	</cliente>
+	<cliente n="7">
+		<nombre>Lucia</nombre>
+		<apellido>Caballero</apellido>
+		<Edad>25</Edad>
+		<top>7</top>
+		<numero_viajes>7</numero_viajes>
+		<dinero_gastado>400$</dinero_gastado>
+		<viaje_favorito>../imagenes/australiasvg.svg</viaje_favorito>
+	</cliente>
+	<cliente n="8">
+		<nombre>Ricky</nombre>
+		<apellido>Martin</apellido>
+		<Edad>42</Edad>
+		<top>8</top>
+		<numero_viajes>7</numero_viajes>
+		<dinero_gastado>200$</dinero_gastado>
+		<viaje_favorito>../imagenes/europaplayasvg.svg</viaje_favorito>
+	</cliente>
+</clientes>

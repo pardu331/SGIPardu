@@ -1,0 +1,86 @@
+{
+	"clientes": {
+		"cliente": [
+			{
+				"@n": 1,
+				"nombre": "Ivan",
+				"apellido": "Pardueles",
+				"Edad": "18",
+				"top": "1",
+				"numero_viajes": "12",
+				"dinero_gastado": "1500$",
+				"viaje_favorito": "../imagenes/alemaniasvg.svg"
+			},
+			{
+				"@n": 2,
+				"nombre": "Kamal",
+				"apellido": "Fernandez",
+				"Edad": "18",
+				"top": "2",
+				"numero_viajes": "11",
+				"dinero_gastado": "1200$",
+				"viaje_favorito": "../imagenes/chinasvg.svg"
+			},
+			{
+				"@n": 3,
+				"nombre": "Javier",
+				"apellido": "Pino",
+				"Edad": "45",
+				"top": "3",
+				"numero_viajes": "9",
+				"dinero_gastado": "1100$",
+				"viaje_favorito": "../imagenes/eiffelsvg.svg"
+			},
+			{
+				"@n": 4,
+				"nombre": "Luis",
+				"apellido": "Martinez",
+				"Edad": "80",
+				"top": "4",
+				"numero_viajes": "1",
+				"dinero_gastado": "1000$",
+				"viaje_favorito": "../imagenes/inglaterrasvg.svg"
+			},
+			{
+				"@n": 5,
+				"nombre": "Pepe",
+				"apellido": "Lopez",
+				"Edad": "95",
+				"top": "5",
+				"numero_viajes": "2",
+				"dinero_gastado": "920$",
+				"viaje_favorito": "../imagenes/sevillaclientesvg.svg"
+			},
+			{
+				"@n": 6,
+				"nombre": "Jose",
+				"apellido": "Ramos",
+				"Edad": "18",
+				"top": "6",
+				"numero_viajes": "9",
+				"dinero_gastado": "500$",
+				"viaje_favorito": "../imagenes/italiasvg.svg"
+			},
+			{
+				"@n": 7,
+				"nombre": "Lucia",
+				"apellido": "Caballero",
+				"Edad": "25",
+				"top": "7",
+				"numero_viajes": "7",
+				"dinero_gastado": "400$",
+				"viaje_favorito": "../imagenes/australiasvg.svg"
+			},
+			{
+				"@n": 8,
+				"nombre": "Ricky",
+				"apellido": "Martin",
+				"Edad": "42",
+				"top": "8",
+				"numero_viajes": "7",
+				"dinero_gastado": "200$",
+				"viaje_favorito": "../imagenes/europaplayasvg.svg"
+			}
+		]
+	}
+}

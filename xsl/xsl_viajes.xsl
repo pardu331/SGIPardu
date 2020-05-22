@@ -68,12 +68,11 @@
 					</header>
 					<nav class='barra'>
 						<a href="../index.html">Inicio</a>
-						<a href="">Fotos</a>
-						<a href="">Videos</a>
+						<a href="../html/videos.html">Videos</a>
 						<a href="https://www.amazon.es/articulos-playa/s?k=articulos+de+playa">Articulos playa</a>
-						<a href="">Redes Sociales</a>
+						<a href="../html/formulario_viajes.html">Redes Sociales</a>
 						<a href="https://www.muchoviaje.com/oferta/bazar/">Descuentos</a>
-						<a href="">Renting de automoviles</a>
+						<a href="../xml/xml_vehiculos.xml">Renting de autos</a>
 					</nav>
 					<table>
 						<th>Pais</th>
